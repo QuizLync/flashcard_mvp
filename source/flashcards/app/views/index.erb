@@ -1,18 +1,16 @@
 <div class="container">
-
-<% @pages = [@note_page, @edit_note, @verify]  %>
-<% unless @pages.include?(true) %>
-
-<h1>Welcome to Noter!</h1>
-<%= erb :new_note %>
-<br/><br/>
-<%= erb :all_notes %>
-<%end%>
-
-<%= erb :note if @note_page == true %>
-<%= erb :edit_note if @edit_note == true %>
-<%= erb :verify_deletion if @verify == true %>
-
+<header>
+<h1 id="logo">Welcome to QuizLync!</h1>
+</header>
+<br/>
+<div class="main-content">
+<h1>Choose a deck:</h1>
+<ul>
+  <% @decks.each do |deck| %>
+    <li><a href="/decks/<%= deck.id %>"><%= deck.name %></li>
+  <% end %>
+</ul>
+</div> <!-- end main content -->
 
 </div>
 

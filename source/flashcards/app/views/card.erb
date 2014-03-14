@@ -1,0 +1,17 @@
+<header>
+<h1 id="logo">Welcome to QuizLync!</h1>
+</header>
+
+<div class="main-content">
+<% if @incorrect == true %>
+<p>You are wrong! Try again.</p>
+<%end%>
+<p><%= @card.question %></p>
+<br/>
+<form action="/cards/<%= @card.id %>" method="post">
+  <input name="answer" type="text"><br>
+  <input class="button" type="submit" value="Submit" />
+</form>
+<br/>
+<br/>
+<a href="/" class="button" value="Home">Take me Home</a>
