@@ -1,0 +1,8 @@
+
+  <p>Are you sure you want to delete <%= @note.title %>?</p>
+  <br/><br/>
+  <form action="/notes/<%=@note.id%>>" method="post">
+    <input type="hidden" name="_method" value="delete" />
+    <input type="submit" value="Yes, delete note" />
+  </form>
+

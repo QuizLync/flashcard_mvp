@@ -1,0 +1,10 @@
+<h3>Notes that you've created:</h3>
+  <% if Note.all.length > 0 %>
+    <% Note.all.each do |note| %>
+    <ul>
+      <li><a href="/notes/<%=note.id%>"><%= note.title %></a></li>
+    </ul>
+    <% end %>
+  <% else %>
+    <p>You have no notes!</p> 
+  <%end%>

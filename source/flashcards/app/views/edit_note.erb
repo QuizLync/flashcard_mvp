@@ -1,0 +1,14 @@
+
+  <form action="/notes/<%= @note.id %>" method="post">
+    <input type="hidden" name="_method" value="put" />
+    <h3>EDIT NOTE</h3>
+    Title
+    <input id="title" name="title" type="text" value="<%= @note.title %>"> <br><br>
+    Content
+    <input id="content" name="content" type="text" value="<%= @note.content %>">  <br><br>
+    <input type="submit" value="Update Note" />
+  </form>
+
+  <form action="/notes/<%= @note.id %>/verify_deletion" method="get">
+    <input type="submit" value="Delete Note" />
+  </form>
