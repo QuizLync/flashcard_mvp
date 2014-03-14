@@ -1,6 +1,6 @@
 class CreateCards < ActiveRecord::Migration
   def change
-    create_tables :cards do |t|
+    create_table :cards do |t|
       t.text :question
       t.string :answer
       t.timestamps
