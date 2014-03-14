@@ -1,0 +1,75 @@
+2013 NCAA Bracket,Louisville,Luke Hancock,2013 NIT,Baylor,Pierre Jackson
+2012 NCAA Bracket,Kentucky,Anthony Davis,2012 NIT,Stanford,Aaron Bright
+2011 NCAA Bracket,Connecticut,Kemba Walker,2011 NIT,Wichita State,Graham Hatch
+2010 NCAA Bracket,Duke,Kyle Singler,2010 NIT,Dayton,Chris Johnson
+2009 NCAA Bracket,North Carolina,Wayne Ellington,2009 NIT,Penn State,Jamelle Cornley
+2008 NCAA Bracket,Kansas,Mario Chalmers,2008 NIT,Ohio State,Kosta Koufos
+2007 NCAA Bracket,Florida,Corey Brewer,2007 NIT,West Virginia,Frank Young
+2006 NCAA Bracket,Florida,Joakim Noah,2006 NIT,South Carolina,Renaldo Balkman
+2005 NCAA Bracket,North Carolina,Sean May,2005 NIT,South Carolina,Carlos Powell
+2004 NCAA Bracket,Connecticut,Emeka Okafor,2004 NIT,Michigan,Daniel Horton
+2003 NCAA Bracket,Syracuse,Carmelo Anthony,2003 NIT,St. John's (NY)Vacated,Marcus Hatten
+2002 NCAA Bracket,Maryland,Juan Dixon,2002 NIT,Memphis,Dajuan Wagner
+2001 NCAA Bracket,Duke,Shane Battier,2001 NIT,Tulsa,Marcus Hill
+2000 NCAA Bracket,Michigan State,Mateen Cleaves,2000 NIT,Wake Forest,Robert O'Kelley
+1999 NCAA Bracket,Connecticut,Richard Hamilton,1999 NIT,California,Sean Lampley
+1998 NCAA Bracket,Kentucky,Jeffrey Sheppard,1998 NIT,MinnesotaVacated,Kevin Clark
+1997 NCAA Bracket,Arizona,Miles Simon,1997 NIT,MichiganVacated,Robert Traylor
+1996 NCAA Bracket,Kentucky,Tony Delk,1996 NIT,Nebraska,Erick Strickland
+1995 NCAA Bracket,UCLA,Ed O'Bannon,1995 NIT,Virginia Tech,Shawn Smith
+1994 NCAA Bracket,Arkansas,Corliss Williamson,1994 NIT,Villanova,Doremus Bennerman
+1993 NCAA Bracket,North Carolina,Donald Williams,1993 NIT,Minnesota,Voshon Lenard
+1992 NCAA Bracket,Duke,Bobby Hurley,1992 NIT,Virginia,Bryant Stith
+1991 NCAA Bracket,Duke,Christian Laettner,1991 NIT,Stanford,Adam Keefe
+1990 NCAA Bracket,Nevada-Las Vegas,Anderson Hunt,1990 NIT,Vanderbilt,Scott Draud
+1989 NCAA Bracket,Michigan,Glen Rice,1989 NIT,St. John's (NY),Jayson Williams
+1988 NCAA Bracket,Kansas,Danny Manning,1988 NIT,Connecticut,Phil Gamble
+1987 NCAA Bracket,Indiana,Keith Smart,1987 NIT,Southern Mississippi,Randolph Keys
+1986 NCAA Bracket,Louisville,Pervis Ellison,1986 NIT,Ohio State,Brad Sellers
+1985 NCAA Bracket,Villanova,Ed Pinckney,1985 NIT,UCLA,Reggie Miller
+1984 NCAA Bracket,Georgetown,Patrick Ewing,1984 NIT,Michigan,Tim McCormick
+1983 NCAA Bracket,North Carolina State,Hakeem Olajuwon,1983 NIT,Fresno State,Ron Anderson
+1982 NCAA Bracket,North Carolina,James Worthy,1982 NIT,Bradley,Jim Anderson
+1981 NCAA Bracket,Indiana,Isiah Thomas,1981 NIT,Tulsa,Greg Stewart
+1980 NCAA Bracket,Louisville,Darrell Griffith,1980 NIT,Virginia,Ralph Sampson
+1979 NCAA Bracket,Michigan State,Magic Johnson,1979 NIT,Indiana,Clarence CarterRay Tolbert
+1978 NCAA Bracket,Kentucky,Jack Givens,1978 NIT,Texas,Ron BaxterJim Krivacs
+1977 NCAA Bracket,Marquette,Butch Lee,1977 NIT,St. Bonaventure,Greg Sanders
+1976 NCAA Bracket,Indiana,Kent Benson,1976 NIT,Kentucky,Cedric Maxwell
+1975 NCAA Bracket,UCLA,Richard Washington,1975 NIT,Princeton,Ron Lee
+1974 NCAA Bracket,North Carolina State,David Thompson,1974 NIT,Purdue,Mike Sojourner
+1973 NCAA Bracket,UCLA,Bill Walton,1973 NIT,Virginia Tech,John Shumate
+1972 NCAA Bracket,UCLA,Bill Walton,1972 NIT,Maryland,Tom McMillen
+1971 NCAA Bracket,UCLA,Howard Porter,1971 NIT,North Carolina,Bill Chamberlain
+1970 NCAA Bracket,UCLA,Sidney Wicks,1970 NIT,Marquette,Dean Meminger
+1969 NCAA Bracket,UCLA,Kareem Abdul-Jabbar,1969 NIT,Temple,Terry Driscoll
+1968 NCAA Bracket,UCLA,Kareem Abdul-Jabbar,1968 NIT,Dayton,Don May
+1967 NCAA Bracket,UCLA,Kareem Abdul-Jabbar,1967 NIT,Southern Illinois,Walt Frazier
+1966 NCAA Bracket,Texas-El Paso,Jerry Chambers,1966 NIT,Brigham Young,Bill Melchionni
+1965 NCAA Bracket,UCLA,Bill Bradley,1965 NIT,St. John's (NY),Ken McIntyre
+1964 NCAA Bracket,UCLA,Walt Hazzard,1964 NIT,Bradley,Levern Tart
+1963 NCAA Bracket,Loyola (IL),Art Heyman,1963 NIT,Providence,Ray Flynn
+1962 NCAA Bracket,Cincinnati,Paul Hogue,1962 NIT,Dayton,Bill Chmielewski
+1961 NCAA Bracket,Cincinnati,Jerry Lucas,1961 NIT,Providence,Vin Ernst
+1960 NCAA Bracket,Ohio State,Jerry Lucas,1960 NIT,Bradley,Lenny Wilkens
+1959 NCAA Bracket,California,Jerry West,1959 NIT,St. John's (NY),Tony Jackson
+1958 NCAA Bracket,Kentucky,Elgin Baylor,1958 NIT,Xavier,Hank Stein
+1957 NCAA Bracket,North Carolina,Wilt Chamberlain,1957 NIT,Bradley,Win Wilfong
+1956 NCAA Bracket,San Francisco,Hal Lear,1956 NIT,Louisville,Charlie Tyra
+1955 NCAA Bracket,San Francisco,Bill Russell,1955 NIT,Duquesne,Maurice Stokes
+1954 NCAA Bracket,La Salle,Tom Gola,1954 NIT,Holy Cross,Togo Palazzi
+1953 NCAA Bracket,Indiana,B.H. Born,1953 NIT,Seton Hall,Walter Dukes
+1952 NCAA Bracket,Kansas,Clyde Lovellette,1952 NIT,La Salle,Tom GolaNorm Grekin
+1951 NCAA Bracket,Kentucky,Bill Spivey,1951 NIT,Brigham Young,Roland Minson
+1950 NCAA Bracket,City College of New York,Irwin Dambrot,1950 NIT,City College of New York,Ed Warner
+1949 NCAA Bracket,Kentucky,Alex Groza,1949 NIT,San Francisco,Don Lofgan
+1948 NCAA Bracket,Kentucky,Alex Groza,1948 NIT,Saint Louis,Ed Macauley
+1947 NCAA Bracket,Holy Cross,George Kaftan,1947 NIT,Utah,Vern Gardner
+1946 NCAA Bracket,Oklahoma State,Bob Kurland,1946 NIT,Kentucky,Ernest Calverley
+1945 NCAA Bracket,Oklahoma State,Bob Kurland,1945 NIT,DePaul,George Mikan
+1944 NCAA Bracket,Utah,Arnold Ferrin,1944 NIT,St. John's (NY),Bill Kotsores
+1943 NCAA Bracket,Wyoming,Ken Sailors,1943 NIT,St. John's (NY),Harry Boykoff
+1942 NCAA Bracket,Stanford,Howard Dallmar,1942 NIT,West Virginia,Rudy Baric
+1941 NCAA Bracket,Wisconsin,John Kotz,1941 NIT,Long Island University,Frank Baumholtz
+1940 NCAA Bracket,Indiana,Marvin Huffman,1940 NIT,Colorado,Bob Doll
+1939 NCAA Bracket,Oregon,Jimmy Hull,1939 NIT,Long Island University,Bill Lloyd
