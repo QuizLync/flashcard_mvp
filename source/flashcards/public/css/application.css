@@ -38,7 +38,9 @@ li,a{
   font-size: 120%;
 }
 
-
+a:hover {
+  color: red;
+}
 
 .button {
  border-top: 1px solid #000000;
