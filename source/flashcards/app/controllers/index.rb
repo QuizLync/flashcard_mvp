@@ -1,6 +1,10 @@
-#notes page featuring a create notes form, and lists all the notes that have been created below
 get '/' do
   erb :index
+end
+
+get '/decks' do
+  @decks = Deck.all
+  erb :all_decks
 end
 
 #shows note page
