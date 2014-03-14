@@ -13,15 +13,15 @@ get '/decks/:id' do
   erb :card
 end
 
-get '/cards/:id' do
-  @card = Card.find(params[:id])
-  @user_answer = params[:answer]
-  if @answer_correct?(@card, @user_answer)
-    redirect "/decks/:id"
-  else
-    erb :card
-  end
-end
+# get '/cards/:id' do
+#   @card = Card.find(params[:id])
+#   @user_answer = params[:answer]
+#   if @answer_correct?
+#     redirect "/decks/:id"
+#   else
+#     erb :card
+#   end
+# end
 
 #shows note page
 get '/notes/:id' do
