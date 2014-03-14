@@ -1,6 +1,26 @@
-#notes page featuring a create notes form, and lists all the notes that have been created below
 get '/' do
   erb :index
+end
+
+get '/decks' do
+  @decks = Deck.all
+  erb :all_decks
+end
+
+get '/decks/:id' do
+  @deck = Deck.find(params[:id])
+  @card = @deck.select_card
+  erb :card
+end
+
+get '/cards/:id' do
+  @card = Card.find(params[:id])
+  @user_answer = params[:answer]
+  if @answer_correct?(@card, @user_answer)
+    redirect "/decks/:id"
+  else
+    erb :card
+  end
 end
 
 #shows note page
