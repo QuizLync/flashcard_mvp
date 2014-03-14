@@ -7,6 +7,22 @@ get '/decks' do
   erb :all_decks
 end
 
+get '/decks/:id' do
+  @deck = Deck.find(params[:id])
+  @card = @deck.select_card
+  erb :card
+end
+
+get '/cards/:id' do
+  @card = Card.find(params[:id])
+  @user_answer = params[:answer]
+  if @answer_correct?(@card, @user_answer)
+    redirect "/decks/:id"
+  else
+    erb :card
+  end
+end
+
 #shows note page
 get '/notes/:id' do
   @note = Note.find(params[:id])
